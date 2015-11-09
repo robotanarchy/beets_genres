@@ -5,7 +5,8 @@
 2. *genres.txt* bereinigen
 3. evtl. genres-tree.yaml sinnvoll bearbeiten
 4. Zurück auf GitHub pushen
-5. Profit
+5. ???
+6. Profit
 
 #### Aktueller Status
 Der Import neuer Musik wird von Beetwerk bzw. Beets erledigt.
